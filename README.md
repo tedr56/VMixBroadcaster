@@ -7,6 +7,6 @@ Ex:
 Restart    Function=Restart
 Alpha50     Function=SetAlpha&Value=127
 
-Add Vmix's Ips in Ip tables. Name optional.
+Add Vmix's Ips in Ip tables. Name optional. (use default VMix port : 8088)
 
 Select the desired function to launch and click send button to broadcast to the VMMix Group, or Send All button to send to all groups.
